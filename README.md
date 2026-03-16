@@ -24,4 +24,5 @@ Ce projet consiste à modéliser et implémenter une base de données pour la ge
 - Lister les consultations
 
 ## Auteur
-Projet réalisé dans le cadre de la SAÉ SQL par ....."# SAE-Cabinet-Medical-Database" 
+Projet réalisé dans le cadre de la SAÉ SQL par AGBODZA Daniel;TEKPOR Edem 
+HABIB Lionel; AGBENOKO Kossi "# SAE-Cabinet-Medical-Database" 
