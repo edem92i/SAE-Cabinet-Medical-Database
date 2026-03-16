@@ -4,8 +4,8 @@
 Ce projet consiste à modéliser et implémenter une base de données pour la gestion d’un cabinet médical.
 
 ## Technologies
-- SQL
-- Modélisation MEA
+- SQL Server Management Studio
+- Modélisation MEA lucidchart
 - GitHub
 
 ## Entités principales
