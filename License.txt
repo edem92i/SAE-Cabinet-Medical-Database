@@ -1,0 +1,11 @@
+## License
+
+This project was developed as part of an academic group assignment for a database design course.
+
+All materials included in this project, such as database models, SQL scripts, diagrams, and documentation, are provided for educational purposes. The project may be used, studied, and adapted for learning or non-commercial academic activities, provided that the original authors are properly acknowledged.
+
+Any reuse or redistribution of this work should include appropriate credit to the project contributors.
+
+The authors are not responsible for any use of this project outside its intended educational context.
+
+© Academic Project – Database Systems Course
